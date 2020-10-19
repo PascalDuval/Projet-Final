@@ -3,3 +3,5 @@ Zest : un token libérateur de l’élan créatif et des énergies collaborative
 
 
 Le projet de token (Zest) et de la plateforme qui le porte (ZEST) s'inscrit dans une réflexion générale sur la valeur à une époque où la crypto-économie s'avère capable de déplacer la production de celle-ci, sa programmation, mais redonne également pleinement sa chance à la notion de bien commun.
+
+Mots-clés : post-capitalisme, biens communs, projets culturels, DPO , DAO, Interconnexion de chaîne de blocs, Proof of Process, collatérisation. 
